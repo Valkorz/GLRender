@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [       
+        {
+            "name": "C++ Debug",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "externalConsole": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "MIMode": "gdb",
+        }
+    ]
+}
